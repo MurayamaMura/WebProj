@@ -17,7 +17,7 @@ public class LoginDAO {
 		Connection con=db.getConnection();
 		LoginDTO dto=new LoginDTO();
 
-		String sql="select * from users where user_name=? and password?";
+		String sql="select * from users where user_name=? and password=?";
 		try{
 			PreparedStatement ps=con.prepareStatement(sql);
 			ps.setString(1, username);
@@ -26,9 +26,11 @@ public class LoginDAO {
 			if(rs.next()){
 				dto.setUsername(rs.getString("user_name"));
 				dto.setPassword(rs.getString("password"));
+				System.out.println("やったね！");
 			}else{
 				dto.setUsername("該当なし");
 				dto.setPassword("該当なし");
+				System.out.println("該当なし！");
 			}
 		}catch(SQLException e){
 			e.printStackTrace();

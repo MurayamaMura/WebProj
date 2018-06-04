@@ -16,5 +16,9 @@ pageEncoding="UTF-8"%>
 	<s:form action="WelcomeAction">
 		<s:submit value="Welcome"/>
 	</s:form>
+
+	<s:form action="InquiryAction">
+		<s:submit value="問合せ"></s:submit>
+	</s:form>
 </body>
 </html>
