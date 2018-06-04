@@ -56,3 +56,9 @@
 0:0:0:0:0:0:0:1 - - [04/Jun/2018:21:24:20 +0900] "GET /WebProj3/ HTTP/1.1" 200 981
 0:0:0:0:0:0:0:1 - - [04/Jun/2018:21:24:22 +0900] "POST /WebProj3/InquiryAction.action HTTP/1.1" 200 927
 0:0:0:0:0:0:0:1 - - [04/Jun/2018:21:24:25 +0900] "POST /WebProj3/InquiryCompleteAction.action HTTP/1.1" 200 309
+127.0.0.1 - - [04/Jun/2018:21:25:21 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:21:25:23 +0900] "GET /WebProj3/ HTTP/1.1" 200 981
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:21:25:24 +0900] "POST /WebProj3/InquiryAction.action HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:21:25:27 +0900] "POST /WebProj3/InquiryCompleteAction.action HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:21:26:12 +0900] "GET /WebProj3/index.jsp HTTP/1.1" 200 981
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:21:26:14 +0900] "POST /WebProj3/InquiryAction.action HTTP/1.1" 200 927
