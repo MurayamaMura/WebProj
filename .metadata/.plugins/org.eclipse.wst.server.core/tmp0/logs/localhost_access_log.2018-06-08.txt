@@ -18,3 +18,14 @@
 127.0.0.1 - - [08/Jun/2018:19:52:23 +0900] "GET / HTTP/1.1" 404 1019
 0:0:0:0:0:0:0:1 - - [08/Jun/2018:19:52:25 +0900] "GET /WebProj3/ HTTP/1.1" 200 2301
 0:0:0:0:0:0:0:1 - - [08/Jun/2018:19:52:37 +0900] "GET /WebProj3/TestAction.action;jsessionid=7502F3DF13D7445050955BFC44D38ACB?username=get&password=get HTTP/1.1" 200 163
+127.0.0.1 - - [08/Jun/2018:19:53:51 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:19:53:53 +0900] "GET /WebProj3/ HTTP/1.1" 200 2081
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:19:54:00 +0900] "GET /WebProj3/TestAction.action?username=get&password=gettt HTTP/1.1" 200 218
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:20:01:11 +0900] "GET /WebProj3/ HTTP/1.1" 200 2081
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:20:01:26 +0900] "POST /WebProj3/TestAction.action HTTP/1.1" 200 267
+127.0.0.1 - - [08/Jun/2018:20:56:15 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:20:56:16 +0900] "GET /WebProj4/ HTTP/1.1" 404 1225
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:20:57:39 +0900] "GET /WebProj4/hello.jsp HTTP/1.1" 200 347
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:20:57:39 +0900] "GET /WebProj4/css/style.css HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:20:58:25 +0900] "GET /WebProj4/hello.jsp HTTP/1.1" 200 347
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:20:58:25 +0900] "GET /WebProj4/css/style.css HTTP/1.1" 200 1388

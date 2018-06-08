@@ -9,9 +9,10 @@
 <body>
 <br>
 <h1>以下の新規ユーザーが登録されました。</h1>
-<s:property value="username"/>
+ユーザーネーム：<s:property value="username"/>
 <br>
-<s:property value="password"/>
-
+パスワード：<s:property value="password"/>
+<br>
+どうぞよろしく！
 </body>
 </html>
