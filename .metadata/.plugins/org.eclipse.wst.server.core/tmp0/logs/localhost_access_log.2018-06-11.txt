@@ -44,3 +44,9 @@
 0:0:0:0:0:0:0:1 - - [11/Jun/2018:21:10:46 +0900] "GET /WebProj4/ HTTP/1.1" 200 432
 0:0:0:0:0:0:0:1 - - [11/Jun/2018:21:10:47 +0900] "POST /WebProj4/HelloStrutsAction.action HTTP/1.1" 200 623
 0:0:0:0:0:0:0:1 - - [11/Jun/2018:21:10:47 +0900] "GET /WebProj4/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [11/Jun/2018:21:15:27 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [11/Jun/2018:21:15:29 +0900] "GET /WebProj4/ HTTP/1.1" 200 432
+0:0:0:0:0:0:0:1 - - [11/Jun/2018:21:15:33 +0900] "POST /WebProj4/HelloStrutsAction.action HTTP/1.1" 200 628
+0:0:0:0:0:0:0:1 - - [11/Jun/2018:21:15:33 +0900] "GET /WebProj4/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Jun/2018:21:22:19 +0900] "GET /WebProj4/index.jsp HTTP/1.1" 200 581
+0:0:0:0:0:0:0:1 - - [11/Jun/2018:21:22:20 +0900] "GET /WebProj4/WelcomeAction HTTP/1.1" 200 3443
