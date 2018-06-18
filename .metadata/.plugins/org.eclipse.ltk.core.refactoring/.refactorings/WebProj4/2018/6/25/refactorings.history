@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="フィールド &apos;com.internousdev.webproj4.action.TestAction.loginDTOList&apos; を &apos;com.internousdev.webproj4.action.TestAction&apos;にカプセル化します&#x0D;&#x0A;- 元のプロジェクト: &apos;WebProj4&apos;&#x0D;&#x0A;- オリジナル要素: &apos;com.internousdev.webproj4.action.TestAction.loginDTOList&apos;&#x0D;&#x0A;- getter メソッド名: &apos;getLoginDTOList&apos;&#x0D;&#x0A;- setter メソッド名: &apos;setLoginDTOList&apos;&#x0D;&#x0A;- フィールドの可視性: &apos;public&apos;&#x0D;&#x0A;- 宣言型の getter および setter メソッドを使用" comments="false" declaring="true" description="フィールド &apos;loginDTOList&apos; をカプセル化します" flags="589830" getter="getLoginDTOList" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.internousdev.webproj4.action{TestAction.java[TestAction^loginDTOList" insertion="0" setter="setLoginDTOList" stamp="1529319887116" version="1.0" visibility="1"/>
+</session>
