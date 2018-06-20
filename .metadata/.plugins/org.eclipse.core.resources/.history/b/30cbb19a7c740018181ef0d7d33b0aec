@@ -1,0 +1,17 @@
+package com.internousdev.webproj5.dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.internousdev.webproj5.dto.HelloStrutsDTO;
+
+public class HelloStrutsDAO {
+
+	List<HelloStrutsDTO> helloStrutsDTOList = new ArrayList<HelloStrutsDTO>();
+
+	public List<HelloStrutsDTO> select() {
+		// TODO 自動生成されたメソッド・スタブ
+		return null;
+	}
+
+}
