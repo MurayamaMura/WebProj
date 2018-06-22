@@ -10,18 +10,12 @@ pageEncoding="UTF-8"%>
 </head>
 <body>
 	<s:form action="HelloStrutsAction">
-  	<s:submit value="HelloStruts"/>
+	<s:submit value="HelloStruts"/>
 	</s:form>
 
-
-<!--	名前とパスワードを入力してください。
-<s:form action="HelloStrutsAction">
-<s:textfield name="userName" label="ユーザー名：" />
-<s:password name="password" label="パスワード：" />
-<s:submit value="送信"/>
-</s:form>
--->
-
+	<s:form action="WelcomeAction">
+	<s:submit value="Welcome"/>
+	</s:form>
 
 </body>
 </html>
