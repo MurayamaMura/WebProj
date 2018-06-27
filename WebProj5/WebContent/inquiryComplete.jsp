@@ -22,7 +22,7 @@
 	<td><s:property value="name"/></td>
 
 	<s:if test='qtype=="company"'>
-		<td>製品について</td>
+		<td>会社について</td>
 	</s:if>
 
 	<s:if test='qtype=="support"'>
